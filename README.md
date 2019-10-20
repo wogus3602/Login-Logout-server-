@@ -2,6 +2,7 @@
 Java Spring Boot를 이용해 로그인/로그아웃 서버 구현
 
 ---
+## Database H2
 Database : h2
 h2.zip 파일도 올렸습니다. 
 실행방법
@@ -10,13 +11,11 @@ h2.zip 파일도 올렸습니다.
 
 ![cmd](./picture/cmd.png)
 ---
+## 설명
 JWT 토큰을 사용한 회원가입, 유저확인, 로그인, 회원삭제, 회원수정 
 
-
-
+## 사진
 ---
 ![Swagger](./picture/swagger.png)
 
-
----
 ![h2](./picture/h2.png)
