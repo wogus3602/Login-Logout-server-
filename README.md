@@ -14,6 +14,9 @@ h2.zip 파일도 올렸습니다.
 ## 설명
 JWT 토큰을 사용한 회원가입, 유저확인, 로그인, 회원삭제, 회원수정 
 
+swagger 접속하는방법
+주소창에 http://localhost:8080/swagger-ui.html 
+
 ## 사진
 ---
 ![Swagger](./picture/swagger.png)
